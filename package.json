@@ -1,0 +1,11 @@
+{
+  "name": "rove-snow",
+  "version": "2.0.0",
+  "description": "Backtested snowfall model for ski resorts: multi-model precip blend, temperature-dependent snow ratio, lead-time shrink.",
+  "main": "js/rove-snow.js",
+  "files": ["js", "model"],
+  "scripts": { "test": "node test/test.js", "example": "node js/example.js" },
+  "engines": { "node": ">=18" },
+  "keywords": ["snow", "forecast", "ski", "weather", "snotel", "open-meteo"],
+  "license": "MIT"
+}

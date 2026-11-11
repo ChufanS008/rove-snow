@@ -1,0 +1,1712 @@
+[
+ {
+  "id": "428:CA:SNTL",
+  "name": "Css Lab",
+  "lat": 39.3257,
+  "lon": -120.3681,
+  "ft": 6890,
+  "area": "Tahoe",
+  "resorts": [
+   {
+    "name": "Boreal",
+    "km": 1.8
+   },
+   {
+    "name": "Soda Springs",
+    "km": 1.6
+   },
+   {
+    "name": "Sugar Bowl",
+    "km": 3.7
+   }
+  ]
+ },
+ {
+  "id": "1242:NV:SNTL",
+  "name": "Little Valley",
+  "lat": 39.2526,
+  "lon": -119.8771,
+  "ft": 6500,
+  "area": "Tahoe",
+  "resorts": [
+   {
+    "name": "Diamond Peak",
+    "km": 3.4
+   }
+  ]
+ },
+ {
+  "id": "518:CA:SNTL",
+  "name": "Heavenly Valley",
+  "lat": 38.9243,
+  "lon": -119.9164,
+  "ft": 8540,
+  "area": "Tahoe",
+  "resorts": [
+   {
+    "name": "Heavenly",
+    "km": 2.4
+   }
+  ]
+ },
+ {
+  "id": "848:CA:SNTL",
+  "name": "Ward Creek #3",
+  "lat": 39.1354,
+  "lon": -120.2186,
+  "ft": 6750,
+  "area": "Tahoe",
+  "resorts": [
+   {
+    "name": "Homewood",
+    "km": 7.7
+   },
+   {
+    "name": "Palisades Tahoe Alpine Meadows",
+    "km": 2.7
+   }
+  ]
+ },
+ {
+  "id": "1067:CA:SNTL",
+  "name": "Carson Pass",
+  "lat": 38.6927,
+  "lon": -120.0022,
+  "ft": 8360,
+  "area": "Tahoe",
+  "resorts": [
+   {
+    "name": "Kirkwood",
+    "km": 5.5
+   }
+  ]
+ },
+ {
+  "id": "652:NV:SNTL",
+  "name": "Mt Rose Ski Area",
+  "lat": 39.3157,
+  "lon": -119.8947,
+  "ft": 8810,
+  "area": "Tahoe",
+  "resorts": [
+   {
+    "name": "Mt Rose",
+    "km": 1.6
+   }
+  ]
+ },
+ {
+  "id": "834:CA:SNTL",
+  "name": "Truckee #2",
+  "lat": 39.3009,
+  "lon": -120.1841,
+  "ft": 6500,
+  "area": "Tahoe",
+  "resorts": [
+   {
+    "name": "Northstar",
+    "km": 6.2
+   },
+   {
+    "name": "Tahoe Donner Downhill",
+    "km": 8.8
+   }
+  ]
+ },
+ {
+  "id": "784:CA:SNTL",
+  "name": "Palisades Tahoe",
+  "lat": 39.1899,
+  "lon": -120.2658,
+  "ft": 8010,
+  "area": "Tahoe",
+  "resorts": [
+   {
+    "name": "Palisades Tahoe",
+    "km": 2.7
+   }
+  ]
+ },
+ {
+  "id": "463:CA:SNTL",
+  "name": "Echo Peak",
+  "lat": 38.849,
+  "lon": -120.0795,
+  "ft": 7650,
+  "area": "Tahoe",
+  "resorts": [
+   {
+    "name": "Sierra-at-Tahoe",
+    "km": 5.5
+   }
+  ]
+ },
+ {
+  "id": "1308:UT:SNTL",
+  "name": "Atwater",
+  "lat": 40.5912,
+  "lon": -111.6377,
+  "ft": 8750,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Alta",
+    "km": 0.3
+   }
+  ]
+ },
+ {
+  "id": "1115:UT:SNTL",
+  "name": "Klondike Narrows",
+  "lat": 41.9677,
+  "lon": -111.5971,
+  "ft": 7280,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Beaver Mountain",
+    "km": 3.9
+   }
+  ]
+ },
+ {
+  "id": "1154:UT:SNTL",
+  "name": "Brian Head",
+  "lat": 37.6799,
+  "lon": -112.8567,
+  "ft": 10040,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Brian Head",
+    "km": 1.4
+   }
+  ]
+ },
+ {
+  "id": "366:UT:SNTL",
+  "name": "Brighton",
+  "lat": 40.5994,
+  "lon": -111.5817,
+  "ft": 8790,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Brighton",
+    "km": 0.2
+   },
+   {
+    "name": "Solitude",
+    "km": 2.4
+   }
+  ]
+ },
+ {
+  "id": "823:UT:SNTL",
+  "name": "Tony Grove Lake",
+  "lat": 41.8983,
+  "lon": -111.6296,
+  "ft": 8450,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Cherry Peak",
+    "km": 10.7
+   }
+  ]
+ },
+ {
+  "id": "814:UT:SNTL",
+  "name": "Thaynes Canyon",
+  "lat": 40.6235,
+  "lon": -111.5332,
+  "ft": 9260,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Deer Valley",
+    "km": 4.9
+   },
+   {
+    "name": "Park City",
+    "km": 3.8
+   }
+  ]
+ },
+ {
+  "id": "339:UT:SNTL",
+  "name": "Big Flat",
+  "lat": 38.3018,
+  "lon": -112.3567,
+  "ft": 10320,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Eagle Point",
+    "km": 2.9
+   }
+  ]
+ },
+ {
+  "id": "1112:NV:SNTL",
+  "name": "Lee Canyon",
+  "lat": 36.3054,
+  "lon": -115.6751,
+  "ft": 8620,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Lee Canyon\uff08Vegas\uff09",
+    "km": 0.5
+   }
+  ]
+ },
+ {
+  "id": "333:UT:SNTL",
+  "name": "Ben Lomond Trail",
+  "lat": 41.3829,
+  "lon": -111.921,
+  "ft": 5970,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Nordic Valley",
+    "km": 9.6
+   }
+  ]
+ },
+ {
+  "id": "1300:UT:SNTL",
+  "name": "Powder Mountain",
+  "lat": 41.3743,
+  "lon": -111.7667,
+  "ft": 8490,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Powder Mountain",
+    "km": 0.4
+   }
+  ]
+ },
+ {
+  "id": "766:UT:SNTL",
+  "name": "Snowbird",
+  "lat": 40.5691,
+  "lon": -111.6585,
+  "ft": 9170,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Snowbird",
+    "km": 1.6
+   }
+  ]
+ },
+ {
+  "id": "820:UT:SNTL",
+  "name": "Timpanogos Divide",
+  "lat": 40.4282,
+  "lon": -111.6163,
+  "ft": 8180,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Sundance",
+    "km": 5.7
+   }
+  ]
+ },
+ {
+  "id": "856:UT:SNTL",
+  "name": "Parleys Upper",
+  "lat": 40.7019,
+  "lon": -111.6062,
+  "ft": 8330,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Utah Olympic Park",
+    "km": 3.9
+   }
+  ]
+ },
+ {
+  "id": "1054:UT:SNTL",
+  "name": "Farmington Lower",
+  "lat": 40.992,
+  "lon": -111.817,
+  "ft": 6850,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Wasatch Peaks Ranch",
+    "km": 11.7
+   }
+  ]
+ },
+ {
+  "id": "684:UT:SNTL",
+  "name": "Parleys Summit",
+  "lat": 40.7618,
+  "lon": -111.6292,
+  "ft": 7590,
+  "area": "Utah-Nevada",
+  "resorts": [
+   {
+    "name": "Woodward",
+    "km": 3.9
+   }
+  ]
+ },
+ {
+  "id": "505:CO:SNTL",
+  "name": "Grizzly Peak",
+  "lat": 39.6465,
+  "lon": -105.8694,
+  "ft": 11110,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Arapahoe Basin",
+    "km": 1.8
+   },
+   {
+    "name": "Keystone",
+    "km": 8.9
+   }
+  ]
+ },
+ {
+  "id": "1040:CO:SNTL",
+  "name": "Mccoy Park",
+  "lat": 39.6023,
+  "lon": -106.544,
+  "ft": 9500,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Beaver Creek",
+    "km": 1.4
+   }
+  ]
+ },
+ {
+  "id": "415:CO:SNTL",
+  "name": "Copper Mountain",
+  "lat": 39.4892,
+  "lon": -106.1715,
+  "ft": 10500,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Breckenridge",
+    "km": 11.4
+   },
+   {
+    "name": "Copper Mountain",
+    "km": 1.2
+   }
+  ]
+ },
+ {
+  "id": "1186:CO:SNTL",
+  "name": "Fool Creek",
+  "lat": 39.8687,
+  "lon": -105.8676,
+  "ft": 11130,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Colorado Adventure Park",
+    "km": 8.8
+   }
+  ]
+ },
+ {
+  "id": "380:CO:SNTL",
+  "name": "Butte",
+  "lat": 38.8944,
+  "lon": -106.9533,
+  "ft": 10190,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Crested Butte",
+    "km": 0.6
+   }
+  ]
+ },
+ {
+  "id": "303:CO:SNTL",
+  "name": "Apishapa",
+  "lat": 37.3307,
+  "lon": -105.0677,
+  "ft": 10000,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Cuchara Mountain",
+    "km": 5.7
+   }
+  ]
+ },
+ {
+  "id": "936:CO:SNTL",
+  "name": "Echo Lake",
+  "lat": 39.6554,
+  "lon": -105.5936,
+  "ft": 10660,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Echo Mountain",
+    "km": 7.1
+   }
+  ]
+ },
+ {
+  "id": "564:CO:SNTL",
+  "name": "Lake Eldora",
+  "lat": 39.9366,
+  "lon": -105.5903,
+  "ft": 9700,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Eldora",
+    "km": 0.4
+   }
+  ]
+ },
+ {
+  "id": "1187:CO:SNTL",
+  "name": "High Lonesome",
+  "lat": 40.0359,
+  "lon": -105.7547,
+  "ft": 10630,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Granby Ranch",
+    "km": 12.8
+   }
+  ]
+ },
+ {
+  "id": "457:CO:SNTL",
+  "name": "Dry Lake",
+  "lat": 40.5337,
+  "lon": -106.7814,
+  "ft": 8240,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Howelson Hill",
+    "km": 7.4
+   },
+   {
+    "name": "Steamboat",
+    "km": 8.1
+   }
+  ]
+ },
+ {
+  "id": "629:CO:SNTL",
+  "name": "Mineral Creek",
+  "lat": 37.8474,
+  "lon": -107.7266,
+  "ft": 10030,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Kendall Mountain Recreation Area",
+    "km": 7.3
+   }
+  ]
+ },
+ {
+  "id": "762:CO:SNTL",
+  "name": "Slumgullion",
+  "lat": 37.9908,
+  "lon": -107.2039,
+  "ft": 11560,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Lake City",
+    "km": 9.9
+   }
+  ]
+ },
+ {
+  "id": "602:CO:SNTL",
+  "name": "Loveland Basin",
+  "lat": 39.6743,
+  "lon": -105.9026,
+  "ft": 11410,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Loveland",
+    "km": 0.7
+   }
+  ]
+ },
+ {
+  "id": "701:CO:SNTL",
+  "name": "Porphyry Creek",
+  "lat": 38.4886,
+  "lon": -106.3397,
+  "ft": 10790,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Monarch Mountain",
+    "km": 3.2
+   }
+  ]
+ },
+ {
+  "id": "622:CO:SNTL",
+  "name": "Mesa Lakes",
+  "lat": 39.0574,
+  "lon": -108.0576,
+  "ft": 10160,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Powderhorn",
+    "km": 8.2
+   }
+  ]
+ },
+ {
+  "id": "387:CO:SNTL",
+  "name": "Cascade #2",
+  "lat": 37.6575,
+  "lon": -107.8029,
+  "ft": 8990,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Purgatory",
+    "km": 4.1
+   }
+  ]
+ },
+ {
+  "id": "713:CO:SNTL",
+  "name": "Red Mountain Pass",
+  "lat": 37.8917,
+  "lon": -107.7139,
+  "ft": 11060,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Silverton Mountain",
+    "km": 5.3
+   }
+  ]
+ },
+ {
+  "id": "485:CO:SNTL",
+  "name": "Fremont Pass",
+  "lat": 39.3801,
+  "lon": -106.1978,
+  "ft": 11310,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Ski Cooper",
+    "km": 8.3
+   }
+  ]
+ },
+ {
+  "id": "1344:CO:SNTL",
+  "name": "Alta Lakes",
+  "lat": 37.8893,
+  "lon": -107.8448,
+  "ft": 11290,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Telluride",
+    "km": 3.5
+   }
+  ]
+ },
+ {
+  "id": "859:WY:SNTL",
+  "name": "Whiskey Park",
+  "lat": 41.0037,
+  "lon": -106.9079,
+  "ft": 8950,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Three Forks Ranch",
+    "km": 12.8
+   }
+  ]
+ },
+ {
+  "id": "842:CO:SNTL",
+  "name": "Vail Mountain",
+  "lat": 39.6176,
+  "lon": -106.3802,
+  "ft": 10290,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Vail",
+    "km": 2.5
+   }
+  ]
+ },
+ {
+  "id": "335:CO:SNTL",
+  "name": "Berthoud Summit",
+  "lat": 39.8036,
+  "lon": -105.7779,
+  "ft": 11300,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Winter Park",
+    "km": 7.0
+   }
+  ]
+ },
+ {
+  "id": "874:CO:SNTL",
+  "name": "Wolf Creek Summit",
+  "lat": 37.479,
+  "lon": -106.8023,
+  "ft": 10930,
+  "area": "Colorado",
+  "resorts": [
+   {
+    "name": "Wolf Creek",
+    "km": 2.0
+   }
+  ]
+ },
+ {
+  "id": "358:WY:SNTL",
+  "name": "Bone Springs Div",
+  "lat": 44.6788,
+  "lon": -107.5811,
+  "ft": 9340,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Antelope Butte",
+    "km": 9.8
+   }
+  ]
+ },
+ {
+  "id": "578:MT:SNTL",
+  "name": "Lick Creek",
+  "lat": 45.5041,
+  "lon": -110.9663,
+  "ft": 6880,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Bear Canyon",
+    "km": 11.6
+   }
+  ]
+ },
+ {
+  "id": "917:MT:SNTL",
+  "name": "Rocky Boy",
+  "lat": 48.1748,
+  "lon": -109.6473,
+  "ft": 4730,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Bear Paw Ski Bowl",
+    "km": 2.1
+   }
+  ]
+ },
+ {
+  "id": "326:WY:SNTL",
+  "name": "Beartooth Lake",
+  "lat": 44.9431,
+  "lon": -109.5674,
+  "ft": 9360,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Beartooth Basin Summer",
+    "km": 11.1
+   }
+  ]
+ },
+ {
+  "id": "590:MT:SNTL",
+  "name": "Lone Mountain",
+  "lat": 45.2741,
+  "lon": -111.4269,
+  "ft": 8820,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Big Sky",
+    "km": 0.6
+   },
+   {
+    "name": "Yellowstone Club",
+    "km": 3.8
+   }
+  ]
+ },
+ {
+  "id": "1144:MT:SNTL",
+  "name": "Blacktail Mtn",
+  "lat": 47.9832,
+  "lon": -114.3544,
+  "ft": 5660,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Blacktail Mountain",
+    "km": 4.7
+   }
+  ]
+ },
+ {
+  "id": "929:MT:SNTL",
+  "name": "Sacajawea",
+  "lat": 45.874,
+  "lon": -110.9278,
+  "ft": 6610,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Bridger Bowl",
+    "km": 6.2
+   }
+  ]
+ },
+ {
+  "id": "850:MT:SNTL",
+  "name": "Warm Springs",
+  "lat": 46.2737,
+  "lon": -113.164,
+  "ft": 7840,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Discovery",
+    "km": 6.7
+   }
+  ]
+ },
+ {
+  "id": "1082:WY:SNTL",
+  "name": "Grand Targhee",
+  "lat": 43.7793,
+  "lon": -110.9278,
+  "ft": 9260,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Grand Targhee",
+    "km": 1.8
+   }
+  ]
+ },
+ {
+  "id": "852:WY:SNTL",
+  "name": "Webber Springs",
+  "lat": 41.1591,
+  "lon": -106.9281,
+  "ft": 9250,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Green Mountain",
+    "km": 3.3
+   }
+  ]
+ },
+ {
+  "id": "389:WY:SNTL",
+  "name": "Casper Mtn.",
+  "lat": 42.7336,
+  "lon": -106.3179,
+  "ft": 7940,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Hogadon Basin",
+    "km": 2.4
+   }
+  ]
+ },
+ {
+  "id": "689:WY:SNTL",
+  "name": "Phillips Bench",
+  "lat": 43.5169,
+  "lon": -110.9126,
+  "ft": 8170,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Jackson Hole",
+    "km": 10.4
+   },
+   {
+    "name": "Snow King Mountain",
+    "km": 13.5
+   }
+  ]
+ },
+ {
+  "id": "656:MT:SNTL",
+  "name": "Mule Creek",
+  "lat": 45.4096,
+  "lon": -112.9593,
+  "ft": 8300,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Maverick Mountain",
+    "km": 13.4
+   }
+  ]
+ },
+ {
+  "id": "703:WY:SNTL",
+  "name": "Powder River Pass",
+  "lat": 44.1619,
+  "lon": -107.1262,
+  "ft": 9480,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Meadowlark",
+    "km": 7.3
+   }
+  ]
+ },
+ {
+  "id": "901:MT:SNTL",
+  "name": "Stuart Mountain",
+  "lat": 46.9952,
+  "lon": -113.9267,
+  "ft": 7270,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Montana Snowbowl",
+    "km": 6.4
+   }
+  ]
+ },
+ {
+  "id": "509:WY:SNTL",
+  "name": "Hams Fork",
+  "lat": 42.146,
+  "lon": -110.6783,
+  "ft": 7860,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Pine Creek",
+    "km": 13.3
+   }
+  ]
+ },
+ {
+  "id": "407:MT:SNTL",
+  "name": "Cole Creek",
+  "lat": 45.194,
+  "lon": -109.3455,
+  "ft": 7910,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Red Lodge Mountain",
+    "km": 1.2
+   }
+  ]
+ },
+ {
+  "id": "437:MT:SNTL",
+  "name": "Deadman Creek",
+  "lat": 46.7928,
+  "lon": -110.6754,
+  "ft": 6440,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Showdown",
+    "km": 5.4
+   }
+  ]
+ },
+ {
+  "id": "807:WY:SNTL",
+  "name": "Sylvan Road",
+  "lat": 44.4783,
+  "lon": -110.0381,
+  "ft": 7140,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Sleeping Giant Winter Sports Area",
+    "km": 7.6
+   }
+  ]
+ },
+ {
+  "id": "367:WY:SNTL",
+  "name": "Brooklyn Lake",
+  "lat": 41.3604,
+  "lon": -106.2304,
+  "ft": 10250,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Snowy Range",
+    "km": 4.9
+   }
+  ]
+ },
+ {
+  "id": "895:ID:SNTL",
+  "name": "Chocolate Gulch",
+  "lat": 43.7685,
+  "lon": -114.4181,
+  "ft": 6310,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Sun Valley",
+    "km": 11.4
+   },
+   {
+    "name": "Sun Valley - Dollar Mountain",
+    "km": 11.2
+   }
+  ]
+ },
+ {
+  "id": "649:MT:SNTL",
+  "name": "Mount Lockhart",
+  "lat": 47.9173,
+  "lon": -112.8238,
+  "ft": 6430,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Teton Pass",
+    "km": 1.8
+   }
+  ]
+ },
+ {
+  "id": "311:MT:SNTL",
+  "name": "Banfield Mountain",
+  "lat": 48.5712,
+  "lon": -115.4457,
+  "ft": 5580,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "Turner Mountain",
+    "km": 14.9
+   }
+  ]
+ },
+ {
+  "id": "468:WY:SNTL",
+  "name": "Elkhart Park G.S.",
+  "lat": 43.0066,
+  "lon": -109.7589,
+  "ft": 9410,
+  "area": "Wyoming-Montana",
+  "resorts": [
+   {
+    "name": "White Pine",
+    "km": 3.8
+   }
+  ]
+ },
+ {
+  "id": "747:ID:SNTL",
+  "name": "Shanghi Summit",
+  "lat": 46.566,
+  "lon": -115.7422,
+  "ft": 4590,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Bald Mountain",
+    "km": 9.8
+   }
+  ]
+ },
+ {
+  "id": "1305:ID:SNTL",
+  "name": "Fish Ck",
+  "lat": 43.5555,
+  "lon": -113.7193,
+  "ft": 6380,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Blizzard Mountain",
+    "km": 13.7
+   }
+  ]
+ },
+ {
+  "id": "978:ID:SNTL",
+  "name": "Bogus Basin",
+  "lat": 43.7638,
+  "lon": -116.0969,
+  "ft": 6370,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Bogus Basin Mountain Recreation Area",
+    "km": 0.8
+   }
+  ]
+ },
+ {
+  "id": "370:ID:SNTL",
+  "name": "Brundage Reservoir",
+  "lat": 45.0431,
+  "lon": -116.1325,
+  "ft": 6280,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Brundage Mountain",
+    "km": 4.9
+   }
+  ]
+ },
+ {
+  "id": "319:ID:SNTL",
+  "name": "Bear Basin",
+  "lat": 44.9522,
+  "lon": -116.1429,
+  "ft": 5350,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Little",
+    "km": 3.0
+   }
+  ]
+ },
+ {
+  "id": "594:ID:SNTL",
+  "name": "Lookout",
+  "lat": 47.4575,
+  "lon": -115.7046,
+  "ft": 5180,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Lookout Pass",
+    "km": 0.9
+   }
+  ]
+ },
+ {
+  "id": "727:MT:SNTL",
+  "name": "Saddle Mtn.",
+  "lat": 45.6926,
+  "lon": -113.9683,
+  "ft": 7890,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Lost Trail",
+    "km": 1.0
+   }
+  ]
+ },
+ {
+  "id": "610:ID:SNTL",
+  "name": "Magic Mountain",
+  "lat": 42.1807,
+  "lon": -114.2866,
+  "ft": 6940,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Magic Mountain",
+    "km": 0.6
+   }
+  ]
+ },
+ {
+  "id": "1299:ID:SNTL",
+  "name": "Pebble Creek",
+  "lat": 42.7674,
+  "lon": -112.1065,
+  "ft": 6520,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Pebble Creek",
+    "km": 3.8
+   }
+  ]
+ },
+ {
+  "id": "534:ID:SNTL",
+  "name": "Howell Canyon",
+  "lat": 42.3203,
+  "lon": -113.6159,
+  "ft": 8010,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Pomerelle Mountain",
+    "km": 0.8
+   }
+  ]
+ },
+ {
+  "id": "769:ID:SNTL",
+  "name": "Soldier R.S.",
+  "lat": 43.4841,
+  "lon": -114.8269,
+  "ft": 5780,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Soldier Mountain",
+    "km": 1.1
+   }
+  ]
+ },
+ {
+  "id": "1016:ID:SNTL",
+  "name": "Long Valley",
+  "lat": 44.7884,
+  "lon": -116.0888,
+  "ft": 4890,
+  "area": "Idaho",
+  "resorts": [
+   {
+    "name": "Tamarack",
+    "km": 12.4
+   }
+  ]
+ },
+ {
+  "id": "672:WA:SNTL",
+  "name": "Olallie Meadows",
+  "lat": 47.3741,
+  "lon": -121.4421,
+  "ft": 4010,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Alpental",
+    "km": 7.6
+   },
+   {
+    "name": "Sahalie Ski Club",
+    "km": 6.6
+   },
+   {
+    "name": "The Summit at Snoqualmie",
+    "km": 5.4
+   }
+  ]
+ },
+ {
+  "id": "873:OR:SNTL",
+  "name": "Wolf Creek",
+  "lat": 45.067,
+  "lon": -118.1518,
+  "ft": 5730,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Anthony Lakes Mountain",
+    "km": 13.7
+   }
+  ]
+ },
+ {
+  "id": "824:WA:SNTL",
+  "name": "Touchet",
+  "lat": 46.1187,
+  "lon": -117.8505,
+  "ft": 5520,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Bluewood",
+    "km": 4.7
+   }
+  ]
+ },
+ {
+  "id": "1314:OR:SNTL",
+  "name": "Fifteenmile",
+  "lat": 45.3526,
+  "lon": -121.53,
+  "ft": 5970,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Cooper Spur",
+    "km": 8.9
+   }
+  ]
+ },
+ {
+  "id": "642:WA:SNTL",
+  "name": "Morse Lake",
+  "lat": 46.9059,
+  "lon": -121.4827,
+  "ft": 5400,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Crystal Mountain",
+    "km": 3.3
+   }
+  ]
+ },
+ {
+  "id": "653:OR:SNTL",
+  "name": "Mt. Howard",
+  "lat": 45.2651,
+  "lon": -117.1738,
+  "ft": 7840,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Ferguson Ridge",
+    "km": 4.9
+   }
+  ]
+ },
+ {
+  "id": "526:OR:SNTL",
+  "name": "Hogg Pass",
+  "lat": 44.4204,
+  "lon": -121.8565,
+  "ft": 4800,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Hoodoo",
+    "km": 2.5
+   }
+  ]
+ },
+ {
+  "id": "974:WA:SNTL",
+  "name": "Waterhole",
+  "lat": 47.9449,
+  "lon": -123.4259,
+  "ft": 5010,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Hurricane Ridge",
+    "km": 5.9
+   }
+  ]
+ },
+ {
+  "id": "788:WA:SNTL",
+  "name": "Stampede Pass",
+  "lat": 47.2743,
+  "lon": -121.3416,
+  "ft": 3850,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Meany Lodge",
+    "km": 1.7
+   }
+  ]
+ },
+ {
+  "id": "841:WA:SNTL",
+  "name": "Upper Wheeler",
+  "lat": 47.2873,
+  "lon": -120.3701,
+  "ft": 4330,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Mission Ridge",
+    "km": 3.2
+   }
+  ]
+ },
+ {
+  "id": "341:OR:SNTL",
+  "name": "Big Red Mountain",
+  "lat": 42.0526,
+  "lon": -122.8549,
+  "ft": 6060,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Mount Ashland",
+    "km": 12.2
+   }
+  ]
+ },
+ {
+  "id": "909:WA:SNTL",
+  "name": "Wells Creek",
+  "lat": 48.8661,
+  "lon": -121.7898,
+  "ft": 4040,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Mt Baker",
+    "km": 9.2
+   }
+  ]
+ },
+ {
+  "id": "651:OR:SNTL",
+  "name": "Mt Hood Test Site",
+  "lat": 45.321,
+  "lon": -121.7158,
+  "ft": 5380,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Mt Hood Meadows",
+    "km": 4.5
+   },
+   {
+    "name": "Mt. Hood Skibowl",
+    "km": 5.2
+   },
+   {
+    "name": "Timberline",
+    "km": 0.3
+   }
+  ]
+ },
+ {
+  "id": "707:WA:SNTL",
+  "name": "Quartz Peak",
+  "lat": 47.8793,
+  "lon": -117.0894,
+  "ft": 4710,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Mt. Spokane",
+    "km": 5.5
+   }
+  ]
+ },
+ {
+  "id": "738:ID:SNTL",
+  "name": "Schweitzer Basin",
+  "lat": 48.3743,
+  "lon": -116.6392,
+  "ft": 6090,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Schweitzer",
+    "km": 2.0
+   }
+  ]
+ },
+ {
+  "id": "791:WA:SNTL",
+  "name": "Stevens Pass",
+  "lat": 47.7461,
+  "lon": -121.0929,
+  "ft": 3940,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Stevens Pass",
+    "km": 0.9
+   }
+  ]
+ },
+ {
+  "id": "692:WA:SNTL",
+  "name": "Pigtail Peak",
+  "lat": 46.6215,
+  "lon": -121.3864,
+  "ft": 5800,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "White Pass",
+    "km": 0.9
+   }
+  ]
+ },
+ {
+  "id": "388:OR:SNTL",
+  "name": "Cascade Summit",
+  "lat": 43.5904,
+  "lon": -122.0601,
+  "ft": 5100,
+  "area": "Pacific Northwest",
+  "resorts": [
+   {
+    "name": "Willamette Pass",
+    "km": 3.4
+   }
+  ]
+ },
+ {
+  "id": "1170:NM:SNTL",
+  "name": "Palo",
+  "lat": 36.4087,
+  "lon": -105.3304,
+  "ft": 9330,
+  "area": "New Mexico",
+  "resorts": [
+   {
+    "name": "Angel Fire",
+    "km": 7.9
+   }
+  ]
+ },
+ {
+  "id": "708:NM:SNTL",
+  "name": "Quemazon",
+  "lat": 35.922,
+  "lon": -106.3918,
+  "ft": 9500,
+  "area": "New Mexico",
+  "resorts": [
+   {
+    "name": "Pajarito Mountain",
+    "km": 3.5
+   }
+  ]
+ },
+ {
+  "id": "715:NM:SNTL",
+  "name": "Red River Pass #2",
+  "lat": 36.6994,
+  "lon": -105.3414,
+  "ft": 9840,
+  "area": "New Mexico",
+  "resorts": [
+   {
+    "name": "Red River",
+    "km": 6.0
+   }
+  ]
+ },
+ {
+  "id": "1083:NM:SNTL",
+  "name": "Tres Ritos",
+  "lat": 36.1279,
+  "lon": -105.5271,
+  "ft": 8740,
+  "area": "New Mexico",
+  "resorts": [
+   {
+    "name": "Sipapu Ski and Summer",
+    "km": 3.3
+   }
+  ]
+ },
+ {
+  "id": "1034:NM:SNTL",
+  "name": "Sierra Blanca",
+  "lat": 33.4068,
+  "lon": -105.7947,
+  "ft": 10250,
+  "area": "New Mexico",
+  "resorts": [
+   {
+    "name": "Ski Apache",
+    "km": 1.5
+   }
+  ]
+ },
+ {
+  "id": "922:NM:SNTL",
+  "name": "Santa Fe",
+  "lat": 35.7715,
+  "lon": -105.7849,
+  "ft": 11480,
+  "area": "New Mexico",
+  "resorts": [
+   {
+    "name": "Ski Santa Fe",
+    "km": 2.3
+   }
+  ]
+ },
+ {
+  "id": "1103:AK:SNTL",
+  "name": "Mt. Alyeska",
+  "lat": 60.9584,
+  "lon": -149.0886,
+  "ft": 1500,
+  "area": "Other US",
+  "resorts": [
+   {
+    "name": "Alyeska\uff08Alaska\uff09",
+    "km": 0.4
+   }
+  ]
+ },
+ {
+  "id": "927:AZ:SNTL",
+  "name": "Snowslide Canyon",
+  "lat": 35.3418,
+  "lon": -111.6508,
+  "ft": 9720,
+  "area": "Other US",
+  "resorts": [
+   {
+    "name": "Arizona Snowbowl",
+    "km": 4.5
+   }
+  ]
+ },
+ {
+  "id": "1302:AK:SNTL",
+  "name": "Creamers Field",
+  "lat": 64.8653,
+  "lon": -147.7362,
+  "ft": 440,
+  "area": "Other US",
+  "resorts": [
+   {
+    "name": "Birch Hill Ski and Snowboard Area",
+    "km": 5.3
+   },
+   {
+    "name": "Moose Mountain",
+    "km": 14.2
+   }
+  ]
+ },
+ {
+  "id": "1332:AK:SNTL",
+  "name": "Elmendorf Field",
+  "lat": 61.2478,
+  "lon": -149.8233,
+  "ft": 170,
+  "area": "Other US",
+  "resorts": [
+   {
+    "name": "Hillberg",
+    "km": 3.0
+   }
+  ]
+ },
+ {
+  "id": "1070:AK:SNTL",
+  "name": "Anchorage Hillside",
+  "lat": 61.1131,
+  "lon": -149.6834,
+  "ft": 1910,
+  "area": "Other US",
+  "resorts": [
+   {
+    "name": "Hilltop",
+    "km": 4.3
+   }
+  ]
+ },
+ {
+  "id": "1073:AK:SNTL",
+  "name": "Mt. Eyak",
+  "lat": 60.5565,
+  "lon": -145.722,
+  "ft": 1450,
+  "area": "Other US",
+  "resorts": [
+   {
+    "name": "Mount Eyak",
+    "km": 1.1
+   }
+  ]
+ },
+ {
+  "id": "641:AK:SNTL",
+  "name": "Frostbite Bottom",
+  "lat": 61.747,
+  "lon": -149.2677,
+  "ft": 2690,
+  "area": "Other US",
+  "resorts": [
+   {
+    "name": "Skeetawk",
+    "km": 1.6
+   }
+  ]
+ },
+ {
+  "id": "310:AZ:SNTL",
+  "name": "Baldy",
+  "lat": 33.9785,
+  "lon": -109.5036,
+  "ft": 9210,
+  "area": "Other US",
+  "resorts": [
+   {
+    "name": "Sunrise Park",
+    "km": 6.4
+   }
+  ]
+ },
+ {
+  "id": "1168:NM:SNTL",
+  "name": "Taos Powderhorn",
+  "lat": 36.5819,
+  "lon": -105.4562,
+  "ft": 11020,
+  "area": "Other US",
+  "resorts": [
+   {
+    "name": "Taos",
+    "km": 0.6
+   }
+  ]
+ },
+ {
+  "id": "920:SD:SNTL",
+  "name": "North Rapid Creek",
+  "lat": 44.2062,
+  "lon": -103.7876,
+  "ft": 6150,
+  "area": "Midwest",
+  "resorts": [
+   {
+    "name": "Deer Mountain Village",
+    "km": 11.6
+   },
+   {
+    "name": "Terry Peak",
+    "km": 14.6
+   }
+  ]
+ }
+]
